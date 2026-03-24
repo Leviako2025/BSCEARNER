@@ -1,0 +1,2 @@
+# BSCEARNER
+EVM bytecode
